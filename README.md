@@ -32,15 +32,18 @@ This project was created as part of an assignment to demonstrate skills in **int
 ## 📸 Screenshots
 
 ### Home Page with Search
-<img width="854" height="365" alt="image" src="https://github.com/user-attachments/assets/a24d73b3-d152-4ae6-b8de-a33858420074" />
+<img width="1919" height="685" alt="image" src="https://github.com/user-attachments/assets/846e4a98-5d36-4344-973e-f83a1a1dba84" />
+
 
 
 ### Suggestions
-<img width="1049" height="690" alt="image" src="https://github.com/user-attachments/assets/af560607-5b5b-46f9-b849-21f1e02c92ba" />
+<img width="1022" height="792" alt="image" src="https://github.com/user-attachments/assets/8c4fde27-ded9-45ba-9d08-8bf374f399b1" />
+
 
 
 ### Results with Pagination
-<img width="869" height="825" alt="image" src="https://github.com/user-attachments/assets/bd93a2ae-4a90-4f54-b656-0e9fcbe47e24" />
+<img width="938" height="864" alt="image" src="https://github.com/user-attachments/assets/547f7557-dc39-4b12-844c-8976fe374a60" />
+
 
 
 ---
